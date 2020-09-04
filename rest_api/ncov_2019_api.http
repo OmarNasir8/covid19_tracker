@@ -1,0 +1,7 @@
+
+POST {{baseUrl}}/token?grant_type=client_credentials
+Authorization: Basic {{authorization}}
+
+###
+
+GET {{baseUrl}}/t/nubentos.com/ncovapi/1.0.0/cases

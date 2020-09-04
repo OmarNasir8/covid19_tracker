@@ -1,0 +1,17 @@
+{
+  "rest-client.environmentVariables": {
+    "sandbox": {
+      "baseUrl": "https://apigw.nubentos.com:443",
+      "authorization": "cHd5XzRXUkFTMUF4MzE2dHV1N1ZoRHg3b29JYTpheExuVm8xWXhsVzlhQWhKRkZTMkgzSkU0VEVh",
+      "accessToken" : "7a80af49-097c-39f7-90fa-d24a2a7c55eb"
+    },
+    "production": {
+
+    },
+    "admin_sandbox": {
+      "baseUrl": "https://ncov2019-admin.firebaseapp.com",
+      "authorization": "2b7afa205b74ea0ea7f91de30d3f7ed526b86791b09f637faa81f531c4dcf7df",
+      "accessToken" : "b1ee2436e491d7d432ad6380e52e804dba81675253553f978de9070aee9e60d9"
+    }
+  }
+}
